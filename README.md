@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">, I'm Arijit</h1>
-<h3 align="center">A web dev enthusiast and coder from India</h3>
+<h3 align="center">A web dev enthusiast and coder from India...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijit515&label=Profile%20views&color=0e75b6&style=flat" alt="arijit515" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arijitbandyopadhyay522@gmail.com**
 
-- ⚡ Fun fact **I think I'm smart but actually I'm not much...:D**
+- ⚡ Fun fact **I think I'm smart but actually I'm not much... :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
