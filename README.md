@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">, I'm Arijit</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="25px">, I'm Arijit</h1>
 <h3 align="center">A web dev enthusiast and coder from India...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijit515&label=Profile%20views&color=0e75b6&style=flat" alt="arijit515" /> </p>
