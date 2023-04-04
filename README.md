@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/arijitthisis" target="blank"><img src="https://img.shields.io/twitter/follow/arijitthisis?logo=twitter&style=for-the-badge" alt="arijitthisis" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Python**
+- 🌱 I’m currently learning **DSA, React.js**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **CPP**
 
 - 📫 How to reach me **arijitbandyopadhyay522@gmail.com**
 
